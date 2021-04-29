@@ -1026,7 +1026,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                         }
                                         else{
                                           Toast.show(
-                                              "Choose a product", context,
+                                              "Choose aa product", context,
                                               duration: Toast.LENGTH_LONG,
                                               gravity: Toast.CENTER);
                                         }
